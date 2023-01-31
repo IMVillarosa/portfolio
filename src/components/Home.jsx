@@ -15,7 +15,7 @@ const Home = () => {
         <p className='text-[#FFDE59]'>Hi, my name is</p>
         <h1 className='text-4xl sm:text-7xl font-bold text-[#CCD6F6]'>Ivan Villarosa</h1>
         <h2 className='text-4xl sm:text-7xl font-bold text-[#8892B0]'>I'm a Frontend Developer</h2>
-        <p className='text-[#8892B0] py-4 max-w-[700px]'>I'm a Frontend Developer who builds </p>
+        <p className='text-[#8892B0] py-4 max-w-[700px]'>I'm a Frontend Developer who aims to provide better web experiences!</p>
 
         <div>
           <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#FFDE59] duration-300 hover:text-[#1D263B] hover:border-[#FFDE59]'>

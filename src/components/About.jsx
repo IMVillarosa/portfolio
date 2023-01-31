@@ -15,7 +15,7 @@ const About = () => {
             <p className='sm:text-right text-4xl font-bold'>Hi, I'm Ivan, nice to meet you. Please take a look around.</p>
           </div>
           <div>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam recusandae quo ipsum omnis tempora, qui tempore temporibus impedit ea consequuntur</p>
+            <p>I'm currently working as a Customer Support in Sydney, AU. With almost 4+ years of experience in web technology as a self-taught Frontend developer, I aim to provide my skills and knowledge as a contribution to the Tech industry.</p>
           </div>
         </div>
         </div>
